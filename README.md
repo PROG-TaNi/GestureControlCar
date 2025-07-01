@@ -27,18 +27,18 @@ This project demonstrates a wireless gesture-controlled robotic car built using 
 
 ## 📦 Folder Structure
 
+### 📁 Folder Structure
+
+```bash
 gesture-control-car/
-├── transmitter/           # Transmitter ESP32 (with MPU6050)
+├── transmitter/
 │   └── transmit_data.ino
-│
-├── receiver/              # Receiver ESP32 (controls motor driver)
+├── receiver/
 │   └── recieved_data.ino
-│
-├── images/                # Diagrams and circuit images
+├── images/
 │   ├── receiver_circuit.png
 │   └── full_setup.png
-│
-└── README.md              # Project documentation
+└── README.md
 
 
 
