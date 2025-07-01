@@ -28,17 +28,18 @@ This project demonstrates a wireless gesture-controlled robotic car built using 
 ## 📦 Folder Structure
 
 gesture-control-car/
-├── transmitter/             # Code for transmitter ESP32 (with MPU6050)
+├── transmitter/           # Transmitter ESP32 (with MPU6050)
 │   └── transmit_data.ino
 │
-├── receiver/                # Code for receiver ESP32 (controls motor driver)
+├── receiver/              # Receiver ESP32 (controls motor driver)
 │   └── recieved_data.ino
 │
-├── images/                  # Diagrams and circuit images
+├── images/                # Diagrams and circuit images
 │   ├── receiver_circuit.png
 │   └── full_setup.png
 │
-└── README.md                # Documentation for GitHub
+└── README.md              # Project documentation
+
 
 
 
