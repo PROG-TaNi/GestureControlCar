@@ -48,8 +48,12 @@ gesture-control-car/
 - Transmitter ESP32-Nano is connected to an **MPU6050** sensor to detect gesture directions.
 
 📷 Circuit Diagram:  
+
+# Reciever End 
 ![image](https://github.com/user-attachments/assets/7c019f82-4201-4a8c-8140-7161cd60a515)
 
+# Transmitter End
+![image](https://github.com/user-attachments/assets/3906adc6-6e79-42bc-83e2-742cb199c52f)
 
 ---
 
