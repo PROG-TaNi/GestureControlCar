@@ -118,11 +118,9 @@ gesture-control-car/
 
 ---
 
-## 📽️ Demo
 
-📹 *Coming Soon*
 
----
+
 
 ## 👨‍💻 Author
 
