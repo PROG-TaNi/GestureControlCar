@@ -129,8 +129,12 @@ gesture-control-car/
 ## 👨‍💻 Author
 
 **Tarush Nigam**  
-Electronics and Communication Engineering  
-[Technovanza | E-Cell, VJTI]
+Electronics Engineering  
+VJTI, Mumbai 
+
+**Krushna Tarde** 
+Electronincs and Telecommunication Engineering 
+VJTI, Mumbai
 
 ---
 
