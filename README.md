@@ -116,6 +116,9 @@ gesture-control-car/
 | Right     | Turn Right |
 | Stable    | Stop |
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/bfc4983d-fdf6-4c20-b386-aede767221cc" />
+
+
 ---
 
 ## 🧠 Future Improvements
