@@ -141,6 +141,7 @@ Electronics Engineering
 VJTI, Mumbai 
 
 **Krushna Tarde** 
+
 Electronincs and Telecommunication Engineering 
 VJTI, Mumbai
 
